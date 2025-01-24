@@ -17,9 +17,11 @@
 - Babel: For ES6+ transpiling.
 
 ## How to get started
+
 ### Installation
 - Clone the repository: git clone https://github.com/pheyboer/Bankist.git
 - Open ```index.html``` in your browser to run the application.
+
 ### Useage
 - Login: Use the following usernames and PINs to login:
   - User 1: Username: js, PIN: 1111
