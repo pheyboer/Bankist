@@ -1,5 +1,7 @@
 # Bankist App
-  A simple banking application built with JavaScript, featuring a user-friendly interface for managing bank accounts, transactions, and balances.
+Bankist App is a banking application built using JavaScript, providing a seamless user experience for managing accounts, viewing transactions, making transfers, and more. This project is designed as a practice exercise to master modern JavaScript features such as ES6 syntax, DOM manipulation, and event handling. 
+
+The app focuses on building a functional banking experience without relying on backend services, simulating the behavior of a real banking website with features like login authentication, money transfers, loan requests, and more.
 
 ## Features
 - User Authentication: Secure login system for users to access their accounts.
