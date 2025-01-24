@@ -20,7 +20,7 @@
 ## Getting Started
 
 ### Installation
-- Clone the repository: git clone https://github.com/pheyboer/Bankist.git
+- Clone the repository: ```git clone git@github.com:pheyboer/Bankist.git```
 - Open ```index.html``` in your browser to run the application.
 
 ### Useage
