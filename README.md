@@ -8,6 +8,7 @@
 - Loan Requests: Apply for a loan, subject to account conditions.
 - Sort Transactions: Sort transactions based on different criteria.
 - Date Formatting & Time Zones: Display transactions and account information in a localized manner.
+- Automatic Logout Timer: Ensures security by automatically logging out inactive users after a set period of inactivity, protecting account data.
 
 ## Technologies Used
 - JavaScript (ES6+): For app logic and interactivity.
