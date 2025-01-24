@@ -17,7 +17,7 @@
 - Local Storage: For persisting user data (simulating backend storage).
 - Babel: For ES6+ transpiling.
 
-## How to get started
+## Getting Started
 
 ### Installation
 - Clone the repository: git clone https://github.com/pheyboer/Bankist.git
