@@ -41,6 +41,8 @@
 - Sorting Transactions:
   - Sort transactions by date or amount.
 
+## Screenshots
+![Home Page](https://github.com/pheyboer/Bankist/blob/main/bankist-app.png)
 
 ## Credits
 This project is based on the Bankist App course by [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy. Special thanks to Udemy for providing the platform and Jonas for the course content.
